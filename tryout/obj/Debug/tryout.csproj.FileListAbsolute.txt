@@ -1,0 +1,8 @@
+D:\firdanxi\c\tryout\tryout\bin\Debug\tryout.exe.config
+D:\firdanxi\c\tryout\tryout\bin\Debug\tryout.exe
+D:\firdanxi\c\tryout\tryout\bin\Debug\tryout.pdb
+D:\firdanxi\c\tryout\tryout\obj\Debug\tryout.csproj.AssemblyReference.cache
+D:\firdanxi\c\tryout\tryout\obj\Debug\tryout.csproj.SuggestedBindingRedirects.cache
+D:\firdanxi\c\tryout\tryout\obj\Debug\tryout.csproj.CoreCompileInputs.cache
+D:\firdanxi\c\tryout\tryout\obj\Debug\tryout.exe
+D:\firdanxi\c\tryout\tryout\obj\Debug\tryout.pdb
